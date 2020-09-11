@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Gemastik</string>
+    <string name="app_backgound"></string>
+    <string name="app_backgound2"></string>
+
+    <string name="tv_nama"></string>
+    <string name="dimana_tempat_tinggalmu">Dimana Tempat Tinggalmu</string>
+    <string name="tulis_alamatmu">Tulis Alamatmu</string>
+    <string name="tulis_nomor_kamu_yuk">Tulis Nomor Kamu yuk</string>
+    <string name="_085234xxxx">085234xxxx</string>
+    <string name="john_chris">John Chris</string>
+    <string name="kapan_tanggal_lahirmu">Kapan tanggal lahirmu ?</string>
+    <string name="_20_maret_1999">20 Maret 1999</string>
+    <string name="_200420">200420</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">perempuan</string>
+
+
 </resources>
